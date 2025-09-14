@@ -2,8 +2,11 @@ h1 {
   background-color: rgb(150, 219, 121); /*Light Green*/
 }
 p {
-  background-color: rgb(222, 112, 106); /*Light Red*/
+  
 }
 .headfoot {
-  background-color: tgb(50, 211, 217); /*Light Blue*/
+  background-color: rgb(50, 211, 217); /*Light Blue*/
+}
+.content {
+  background-color: rgb(222, 112, 106); /*Light Red*/
 }
