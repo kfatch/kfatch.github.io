@@ -4,7 +4,7 @@ h1 {
 p {
   font-size: 120%;
 }
-.headfoot {
+.headfoot, h2 {
   background-color: rgb(50, 211, 217); /*Light Blue*/
   font-size: 120%;
   text-align: center;
@@ -12,7 +12,9 @@ p {
 .content {
   background-color: rgb(222, 112, 106); /*Light Red*/
   font-size: 120%;\
-  
+}
+.container {
+  column-count: 2;
 }
 li {
   text-align: left;
