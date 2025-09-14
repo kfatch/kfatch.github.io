@@ -12,3 +12,9 @@ p {
   background-color: rgb(222, 112, 106); /*Light Red*/
   font-size: 120%;
 }
+nav {
+  text-align: left;
+  font-size: 120%;
+  border: 5px solid black;
+  background-color: rgb(227, 222, 134); /*Light Yellow*/
+}
