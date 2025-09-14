@@ -15,7 +15,11 @@ p {
   font-size: 120%;\
 }
 .container {
-  column-count: 2;
+  display: flex;
+  gap: 20px;
+}
+.div1, .div2{
+  flex: 1;
 }
 li {
   text-align: left;
