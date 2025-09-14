@@ -2,11 +2,13 @@ h1 {
   background-color: rgb(150, 219, 121); /*Light Green*/
 }
 p {
-  
+  font-size: 120%;
 }
 .headfoot {
   background-color: rgb(50, 211, 217); /*Light Blue*/
+  font-size: 120%;
 }
 .content {
   background-color: rgb(222, 112, 106); /*Light Red*/
+  font-size: 120%;
 }
