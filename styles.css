@@ -18,8 +18,13 @@ p {
   display: flex;
   gap: 20px;
 }
-.div1, .div2{
+.div1 {
   flex: 1;
+  justified: right;
+}
+.div2{
+  flex: 1;
+  justified: left;
 }
 li {
   text-align: left;
