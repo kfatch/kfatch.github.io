@@ -20,11 +20,11 @@ p {
 }
 .div1 {
   flex: 1;
-  justified: right;
+  text-align: right;
 }
 .div2{
   flex: 1;
-  justified: left;
+  text-align: left;
 }
 li {
   text-align: left;
