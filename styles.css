@@ -17,10 +17,10 @@ body {
   background-position: center;
   height: 100vh;
 }
-.headfoot, h2 {
-  font-size: 120%;
-  text-align: center;
+main {
+  flex-grow: 1;
 }
-.content {
-  font-size: 120%;\
+footer {
+  padding: 15px;
+  text-align: center;
 }
