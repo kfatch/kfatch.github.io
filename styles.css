@@ -15,6 +15,7 @@ p {
   text-align: center;
 }
 ul {
+  text-size: 150%;
   display: block;
   text-align: center;
   border-style: solid;
