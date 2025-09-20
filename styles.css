@@ -33,6 +33,18 @@ body {
 main {
   flex-grow: 1;
 }
+a:link {
+  color: blue;
+}
+a:visited {
+  color: purple;
+}
+a:hover {
+  color: green;
+}
+a:active {
+  color: red;
+}
 footer {
   padding: 15px;
   text-align: center;
