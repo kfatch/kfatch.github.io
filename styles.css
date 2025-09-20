@@ -11,7 +11,7 @@ p {
   text-align: center;
 }
 body {
-  background: url(images/shirt logo.jpg);
+  background: url("images/shirt logo.jpg");
   bacground-size: cover;
   background-repeat: no-repeat;
   background-position: center;
