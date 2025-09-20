@@ -10,6 +10,13 @@ h1 {
 p {
   font-size: 120%;
 }
+body {
+  background: url(images/shirt logo.jpg);
+  bacground-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100vh;
+}
 .headfoot, h2 {
   background-color: rgb(50, 211, 217); /*Light Blue*/
   font-size: 120%;
