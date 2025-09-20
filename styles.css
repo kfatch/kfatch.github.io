@@ -8,6 +8,7 @@ h1 {
   border-style: solid;
   border-width: 2px;
   border-color: black;
+  background-color: rgb(50, 211, 217);
 }
 p {
   font-size: 120%;
@@ -29,4 +30,5 @@ footer {
   border-style: solid;
   border-width: 2px;
   border-color: black;
+  background-color: rgb(150, 219, 121);
 }
