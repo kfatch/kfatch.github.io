@@ -16,7 +16,6 @@
 <!--BODY SEPARATION -->
  <h2>Shop Product List</h2>
   <form action="https://kfatch.github.io/shop.html" method="POST">
-  
   <p>Fill out the information below and click the submit button to submit your order! Make sure the information you enter is correct before submitting.</p>
   <p>
     <label for="firstName">First name:</label>
@@ -30,10 +29,22 @@
     <label for="address">Address:</label>
     <textarea type="text" name="address" id="address"  row="2" cols="50" placeholder="123 Example Rd"></textarea>
   </p>
-  <p>
-    <!-- Shirt Menu
-         Color Picker -->
-  </p>
+  <fieldset>
+    <legend>Shirt</legend>
+    <label for="shirt_size">Size:</label>
+    <select name="shirt_size">
+      <option value="small">Small</option>
+      <option value="medium">Medium</option>
+      <option value="large">Large</option>
+    </select>
+    <label for="shirt_color">Color:</label>
+    <select name="shirt_color">
+        <option value="black">Black</option>
+        <option value="white">White</option>
+    </select>
+  </fieldset>
+  <input type="submit">
+  </form>
   </main>
   <!--BODY SEPARATION -->
     <footer>
