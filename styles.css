@@ -68,3 +68,6 @@ footer {
   max-height: 100px;
   float: center;
 }
+fieldset {
+  width: 200px;
+}
