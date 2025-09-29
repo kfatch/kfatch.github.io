@@ -75,5 +75,6 @@ footer {
   max-height: 50px;
 }
 fieldset {
-  width: 200px;
+  width: 250px;
+  margin: 0 auto;
 }
