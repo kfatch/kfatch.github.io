@@ -70,6 +70,10 @@ footer {
   width: 50%;
   max-height: 100px;
 }
+.p_image {
+  max-width: 50px;
+  max-height: 50px;
+}
 fieldset {
   width: 200px;
 }
