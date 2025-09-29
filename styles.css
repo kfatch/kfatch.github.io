@@ -6,10 +6,7 @@ rgb(227, 222, 134) Light Yellow
 h1 {
   text-align: center;
   border-style: solid;
-  border-top: 2px;
-  border-bottom: 2px;
-  border-left: none;
-  border-right: none;
+  border-width: 2px;
 }
 h2 {
   text-align: center;
