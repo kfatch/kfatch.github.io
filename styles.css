@@ -74,8 +74,8 @@ footer {
   max-height: 100px;
 }
 .p_image {
-  max-width: 75vh;
-  max-height: 75vh;
+  max-width: 50vh;
+  max-height: 50vh;
 }
 fieldset {
   width: 250px;
