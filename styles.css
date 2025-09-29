@@ -70,8 +70,8 @@ footer {
   max-height: 100px;
 }
 .p_image {
-  max-width: 50px;
-  max-height: 50px;
+  max-width: 75vh;
+  max-height: 75vh;
 }
 fieldset {
   width: 250px;
