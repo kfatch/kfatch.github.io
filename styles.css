@@ -89,6 +89,7 @@ fieldset {
 input[type="submit"] {
   display: block;
   margin: 0 auto;
+  padding: 10px
 }
 .shop_call {
   font-size: 20px;
