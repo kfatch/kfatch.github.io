@@ -23,7 +23,6 @@ ul {
   overflow: hidden;
   font-weight: bold;
   text-align: center;
-  background-color: rgb(227, 222, 134);
 }
 ul li{
   float: left;
@@ -31,6 +30,9 @@ ul li{
 ul li a {
   display: block;
   padding: 16px 20px;
+}
+ul li a:hover {
+  background-color: rgb(227, 222, 134);
 }
 body {
   bacground-size: cover;
