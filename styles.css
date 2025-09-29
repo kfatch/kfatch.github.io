@@ -28,6 +28,7 @@ ul {
 }
 ul li{
   float: center;
+  font-size: 28px;
 }
 ul li a {
   display: block;
