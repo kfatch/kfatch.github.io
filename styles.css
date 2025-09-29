@@ -64,9 +64,11 @@ footer {
   background-color: rgb(150, 219, 121);
 }
 .logo {
-  max-width: 100px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
   max-height: 100px;
-  float: center;
 }
 fieldset {
   width: 200px;
