@@ -21,15 +21,15 @@
   <p>Fill out the information below and click the submit button to submit your order! Make sure the information you enter is correct before submitting.</p>
   <p>
     <label for="firstName">First name:</label>
-    <input type="text" id="firstName" name="firstName" maxlength="25" placeholder="First Name">
+    <input type="text" id="firstName" name="firstName" maxlength="25" placeholder="First Name" required>
   </p>
   <p>
     <label for="lastName">Last name:</label>
-    <input id="lastName" name="lastName" maxlength="25" placeholder="Last Name">
+    <input id="lastName" name="lastName" maxlength="25" placeholder="Last Name" required>
   </p>
   <p>
     <label for="address">Address:</label>
-    <textarea type="text" name="address" id="address"  row="2" cols="50" placeholder="123 Example Rd"></textarea>
+    <textarea type="text" name="address" id="address"  row="2" cols="50" placeholder="123 Example Rd" required></textarea>
   </p>
   <fieldset>
     <legend>Shirt</legend>
@@ -38,11 +38,14 @@
       <option value="small">Small</option>
       <option value="medium">Medium</option>
       <option value="large">Large</option>
+      <option value="x-large">X-Large</option>
     </select>
     <label for="color">Color:</label>
     <select name="shirt_color">
         <option value="black">Black</option>
         <option value="white">White</option>
+        <option value="red">Red</option>
+        <option value="blue">Blue</option>
     </select>
   </fieldset>
   <input type="submit">
