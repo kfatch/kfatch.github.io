@@ -21,18 +21,6 @@ p {
   font-size: 22px;
   text-align: center;
 }
-/*ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  font-weight: bold;
-  text-align: center;
-} 
-ul li{
-  float: center;
-  font-size: 28px;
-}*/
 .navLink {
   list-style-type: none;
   margin: 0;
@@ -44,8 +32,7 @@ ul li{
   font-size: 28px;
 }
 ul {
-}
-ul li{
+  font-size: 22px;
 }
 ul li a {
   display: block;
